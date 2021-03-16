@@ -1,6 +1,11 @@
-Codigo,Aerodromo,Cidade,Sigla,2020,2021,Taxa de redução
-SBGR,Aeroporto Internacional de São Paulo,Guarulhos,SP,4139351,2161684,-47.12
-SBBR,Aeroporto Internacional de Brasília,Brasília,DF,1844738,944161,-38.96
-SBGL,Aeroporto Internacional do Rio de Janeiro,Rio de Janeiro,RJ,1165101,292791,-74.87
-SBRF,Aeroporto Internacional de Recife,Recife,PE,815132,649502,-20.20
-SBSV,Aeroporto Internacional de Salvador,Salvador,BA,723408,473822,-34.34
+Codigo,Aerodromo,Cidade,Sigla,Ano,Taxa de redução
+SBGR,Aeroporto Internacional de São Paulo,Guarulhos,SP,2020,4139351,-47.12
+SBBR,Aeroporto Internacional de Brasília,Brasília,DF,2020,1844738,-38.96
+SBGL,Aeroporto Internacional do Rio de Janeiro,Rio de Janeiro,RJ,2020,1165101,-74.87
+SBRF,Aeroporto Internacional de Recife,Recife,PE,2020,815132,-20.20
+SBSV,Aeroporto Internacional de Salvador,Salvador,BA,2020,723408,-34.34
+SBGR,Aeroporto Internacional de São Paulo,Guarulhos,SP,2021,2161684,-47.12
+SBBR,Aeroporto Internacional de Brasília,Brasília,DF,2021,944161,-38.96
+SBGL,Aeroporto Internacional do Rio de Janeiro,Rio de Janeiro,RJ,2021,292791,-74.87
+SBRF,Aeroporto Internacional de Recife,Recife,PE,2021,649502,-20.20
+SBSV,Aeroporto Internacional de Salvador,Salvador,BA,2021,473822,-34.34
